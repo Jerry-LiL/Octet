@@ -1,7 +1,7 @@
 # Octet
 Octet is a FFMPEG and Yt-dlp based .NET MAUI GUI for fast and easy to use without need of any external tool/toolset.
 
-#Instructions: 
+# Instructions: 
 
 👉 Just download the zip from releases and extract it.  
 👉 Paste video url in the and click on FETCH INFO.  
